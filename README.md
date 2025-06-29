@@ -63,6 +63,6 @@ Some tests export their results to `result/<test_name>/`. Tests are executed ind
 
 ## Python Implementation
 
-This repo also contains a python implementation of PIC version of CK-MPM, which is included in the `python-src` folder. Check out the .sh file on how to run the script.
+This repo also contains a python implementation of PIC version of CK-MPM, which is included in the `python-src` folder. Check out the `.sh` file on how to run the script.
 
 
