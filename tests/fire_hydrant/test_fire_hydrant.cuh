@@ -62,8 +62,6 @@ namespace test{
         constexpr static uint32_t kFps_ = 2400;
         constexpr static float kCfl_ = 0.5f;
         constexpr static float kDtFactor_= 1.0f;
-        //constexpr static float kTotalSimulatedTime_ = 240.f / 48.f;
-        // constexpr static float kTotalSimulatedTime_ = 100.f / 240.f;
         constexpr static float kTotalSimulatedTime_ = 100.f / 2400.f;
 
         typedef MPMDomainRange<128, 192, 128> DomainRange_;
