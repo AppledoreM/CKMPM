@@ -1,0 +1,10 @@
+[submodule "third_party/spdlog"]
+	path = third_party/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "third_party/partio"]
+	path = third_party/partio
+	url = git@github.com:wdas/partio.git
+	ignore = dirty
+[submodule "third_party/json"]
+	path = third_party/json
+	url = git@github.com:nlohmann/json.git
