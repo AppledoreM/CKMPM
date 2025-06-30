@@ -1,4 +1,5 @@
 # Compact-Kernel (CK) MPM 
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 This repository contains an implementation of Compact Kernel Material Point Method (CK-MPM) simulator and a set of example tests.  The tests are built as standalone executables using
 [CMake](https://cmake.org/) and require a working CUDA toolchain. The code is built and tested on Ubuntu.
@@ -65,4 +66,25 @@ Some tests export their results to `result/<test_name>/`. Tests are executed ind
 
 This repo also contains a python implementation of PIC version of CK-MPM, which is included in the `python-src` folder. Check out the `.sh` file on how to run the script.
 
+## License
+
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+
+## Citation
+
+@article{journals/corr/abs-2412-10399,
+  added-at = {2025-01-20T00:00:00.000+0100},
+  author = {Liu, Michael and Wang, Xinlei and Li, Minchen},
+  biburl = {https://www.bibsonomy.org/bibtex/21a65ca05636892d8826138669f87c54d/dblp},
+  ee = {https://doi.org/10.48550/arXiv.2412.10399},
+  interhash = {b86884a3967d8fd38da875899a5c8e57},
+  intrahash = {1a65ca05636892d8826138669f87c54d},
+  journal = {CoRR},
+  keywords = {dblp},
+  timestamp = {2025-01-27T08:25:32.000+0100},
+  title = {CK-MPM: A Compact-Kernel Material Point Method.},
+  url = {http://dblp.uni-trier.de/db/journals/corr/corr2412.html#abs-2412-10399},
+  volume = {abs/2412.10399},
+  year = 2024
+}
 
