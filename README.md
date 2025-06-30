@@ -72,6 +72,7 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 
 ## Citation
 
+```bibtex
 @article{journals/corr/abs-2412-10399,
   added-at = {2025-01-20T00:00:00.000+0100},
   author = {Liu, Michael and Wang, Xinlei and Li, Minchen},
@@ -87,4 +88,5 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
   volume = {abs/2412.10399},
   year = 2024
 }
+
 
