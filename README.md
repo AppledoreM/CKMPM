@@ -1,7 +1,7 @@
 # Compact-Kernel (CK) MPM 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
-This repository contains an implementation of Compact Kernel Material Point Method (CK-MPM) simulator and a set of example tests.  The tests are built as standalone executables using
+This repository contains the official implementation of the [Compact-Kernel Material Point Method (CK-MPM)](https://arxiv.org/pdf/2412.10399) and a set of example tests. The tests are built as standalone executables using
 [CMake](https://cmake.org/) and require a working CUDA toolchain. The code is built and tested on Ubuntu.
 
 ## Prerequisites
@@ -89,5 +89,3 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
   month = july,
   numpages = {14}
 }
-
-
